@@ -1,5 +1,9 @@
 # Ask user for their name 
 name = input("What's your name? ")
+
+#Remove white space from str
+name = name.strip()
+
 # Say hello to user
 print ("hello,")
 print (name)
