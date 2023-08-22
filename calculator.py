@@ -13,7 +13,14 @@ z = int(x) + int(y)
 print(z) 
 
 #Calculator ex 3 
+x= int(input("What's x? "))
+y= int(input("What's y? "))
 
+print(x+y)
+
+
+
+#calculator ex 4 
 def main():
     x = int(input("What's x? "))
     print("x squared is", square(x))
