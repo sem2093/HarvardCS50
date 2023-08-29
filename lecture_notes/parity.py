@@ -19,5 +19,11 @@ def is_even(n):
         return True
     else:
         return False
+# is_even refined 
+def is_even(n):
+    return True if n % 2 == 0 else False
+# is_even refined even further 
+def is_even(n):
+    return n % 2 == 0
 # call main function
 main()
