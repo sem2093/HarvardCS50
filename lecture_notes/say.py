@@ -11,3 +11,11 @@ if len(sys.argv) == 2:
 if len(sys.argv) == 2:
     cowsay.trex("hello, " + sys.argv[1])
   
+# import goodbye from sayings.py
+
+import sys
+
+from saying import goodbye
+
+if len(sys.argv) == 2:
+    goodbye(sys.argv[1])
