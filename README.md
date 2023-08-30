@@ -18,7 +18,7 @@ explored in files test_calculator.py, test/test_hello.py, and test/__init__.py.
 ### 6 - File I/O
 explored in files students.py, students.csv, costumes.py, and costumes.gif
 ### 7 - Regular Expressions
-
+explored in files validate.py, format.py, twitter.py
 
 ### 8 - Object-Oriented Programming
 
