@@ -22,4 +22,4 @@ explored in files validate.py, format.py, and twitter.py
 ### 8 - Object-Oriented Programming
 explored in files student.py, type.py, hat.py, wizard.py, vault.py
 ### 9 - Et Cetera 
-explored in files yell.py,
+explored in files yell.py, gryffindors.py
