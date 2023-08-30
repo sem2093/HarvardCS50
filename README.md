@@ -1,3 +1,4 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # HarvardCS50 Python Course 
 This repository will store projects and excersises I do throughout the Harvard python course. 
 ## Course chapters 
