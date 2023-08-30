@@ -5,20 +5,20 @@ This repository will store projects and excersises I do throughout the Harvard p
 (files for exercises inside lecture_notes folder)
 ### 0-Functions and Variables.
 explored in files hello.py and calculator.py
-### 1-Conditionals
+### 1 - Conditionals
 explored in files compare.py, grade.py, parity.py, and house.py
-### 2-Loops
+### 2 - Loops
 explored in files cat.py, hogwarts.py, and mario.py
-### 3-Exceptions 
+### 3 - Exceptions 
 explored in file number.py
-### 4-Libraries 
-explored in files generate.py, average.py, name.py, and say.py
-### 5-Unit tests
+### 4 - Libraries 
+explored in files generate.py, average.py, name.py, say.py, itunes.py, and sayings.py
+### 5 - Unit tests
 
-### 6-File I/O
+### 6 - File I/O
 
-### 7-Regular Expressions
+### 7 - Regular Expressions
 
-### 8-Object-Oriented Programming
+### 8 - Object-Oriented Programming
 
-### 9-Et Cetera 
+### 9 - Et Cetera 
