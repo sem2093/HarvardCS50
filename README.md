@@ -12,7 +12,7 @@ explored in files cat.py, hogwarts.py, and mario.py
 ### 3-Exceptions 
 explored in file number.py
 ### 4-Libraries 
-
+explored in files generate.py, name.py, and say.py
 ### 5-Unit tests
 
 ### 6-File I/O
