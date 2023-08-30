@@ -20,5 +20,5 @@ explored in files students.py, students.csv, costumes.py, and costumes.gif
 ### 7 - Regular Expressions
 explored in files validate.py, format.py, and twitter.py
 ### 8 - Object-Oriented Programming
-explored in files 
+explored in files student.py, type.py, hat.py
 ### 9 - Et Cetera 
