@@ -16,8 +16,9 @@ explored in files generate.py, average.py, name.py, say.py, itunes.py, and sayin
 ### 5 - Unit tests
 explored in files test_calculator.py, test/test_hello.py, and test/__init__.py.
 ### 6 - File I/O
-
+explored in files students.py, students.csv, costumes.py, and costumes.gif
 ### 7 - Regular Expressions
+
 
 ### 8 - Object-Oriented Programming
 
