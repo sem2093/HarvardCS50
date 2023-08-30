@@ -14,7 +14,7 @@ explored in file number.py
 ### 4 - Libraries 
 explored in files generate.py, average.py, name.py, say.py, itunes.py, and sayings.py
 ### 5 - Unit tests
-explored in files calculator.py,
+explored in files test_calculator.py, test/test_hello.py, and test/__init__.py.
 ### 6 - File I/O
 
 ### 7 - Regular Expressions
