@@ -25,12 +25,13 @@ def main():
 
 def function_1():
     print("Task added successfully!")
-
+    return 
 def function_2():
     print("Please Type '1','2',or'3'")
+    return
 def function_n():
     print("Goodbye!")
-
+    return
 if __name__ == "__main__":
     main()
 
